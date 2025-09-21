@@ -4,4 +4,5 @@ SHIFT LAMA B<br>
 SHIFT BARU A<br>
 
 ![Tampilan Aplikasi](screenshots/Tampilan_Aplikasi.png)<br>
-![Demo](screenshots/Demo.gif)
+![Demo](screenshots/Demo.gif)![Uploading Demo.gif…]()
+
