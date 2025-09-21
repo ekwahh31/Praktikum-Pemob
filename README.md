@@ -8,5 +8,5 @@ SHIFT BARU A<br>
 ![Tampilan Aplikasi](screenshots/Tampilan_Aplikasi.png)<br>
 <br>
 ## DEMO APLIKASI
-![Demo](screenshots/Demo.gif)![Uploading Demo.gif…]()
+![Demo](screenshots/Demo.gif)
 
