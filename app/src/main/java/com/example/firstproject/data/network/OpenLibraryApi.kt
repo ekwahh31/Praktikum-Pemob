@@ -9,6 +9,6 @@ interface OpenLibraryApi {
     @GET("search.json")
     suspend fun searchBooks(
         @Query("q") query: String,
-        @Query( "limit") limit: Int
+        @Query("limit") limit: Int
     ): Response<SearchResponse>
 }
