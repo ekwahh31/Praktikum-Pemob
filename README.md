@@ -9,4 +9,6 @@ SHIFT BARU A<br>
 # TUGAS 2
 ![Demo](https://github.com/user-attachments/assets/2e9b3731-05db-4f4f-ba69-1fae38f57912)<br>
 # TUGAS 3
-![Pertemuan_3](https://github.com/user-attachments/assets/23b364f6-ad4d-49de-973d-f985d4ac2aa6)
+![Tugas 3](https://github.com/user-attachments/assets/c9ff084e-6869-4d8b-81f1-d12f0b6b6489)<br>
+# TUGAS 4
+![Tugas 4](https://github.com/user-attachments/assets/0b8effea-6c27-4b3d-83ca-dfd678c1913c)
